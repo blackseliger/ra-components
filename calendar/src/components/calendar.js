@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import moment from 'moment';
 import 'moment/locale/ru';
-// при русской изменилоись индексы дней в неделе
+
 // https://stackoverflow.com/questions/44872960/adding-locale-js-in-moment-react
 
 
